@@ -1,4 +1,4 @@
-//Project 4 by Derek Mackey
+
 
 import controlP5.*;
 
